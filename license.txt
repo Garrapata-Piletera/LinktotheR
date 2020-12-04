@@ -1,0 +1,68 @@
+Solarus source code
+-------------------
+
+The source code of Solarus is licensed under the terms of
+the GNU General Public License in version 3.
+
+See license_gpl.txt.
+
+Authors: Christopho and the Solarus team
+
+include/**.h
+include/**.inl
+src/**.cpp
+
+gui/include/**.h
+gui/include/**.inl
+gui/src/**.cpp
+
+tests/include/**.h
+tests/include/**.inl
+tests/src/**.cpp
+
+
+Solarus logos and icons
+-----------------------
+
+The following Solarus logos and icons are licensed under
+Creative Commons Attribution-ShareAlike 4.0 (CC BY-SA 4.0).
+http://creativecommons.org/licenses/by-sa/4.0/
+
+Author: Olivier Cléro (Solarus team)
+
+gui/resources/images/icon/*.png
+gui/resources/images/default_icon.png
+gui/resources/images/solarus_logo_128.png
+gui/resources/images/no_logo.png
+images/solarus_logo.png
+
+
+GUI icons
+---------
+
+The following icons are licensed under
+Creatives Commons Attribution-ShareAlike 3.0 (CC BY-SA 3.0).
+http://creativecommons.org/licenses/by-sa/3.0/
+
+Author: Yusuke Kamiyamane:
+http://p.yusukekamiyamane.com/
+
+gui/resources/images/icon_add.png
+gui/resources/images/icon_open.png
+gui/resources/images/icon_remove.png
+gui/resources/images/icon_start.png
+gui/resources/images/icon_stop.png
+
+Testing quest
+-------------
+
+Solarus provides a testing quest with a lot of data files, used for
+automated tests.
+The testing quest contains assets from the Solarus Free Resource Pack
+available at https://github.com/solarus-games/solarus-free-resource-pack
+
+The license information of these data files can be found here:
+https://github.com/solarus-games/solarus-free-resource-pack/blob/dev/license.txt
+
+tests/testing_quest/*
+

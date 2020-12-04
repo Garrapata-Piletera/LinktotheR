@@ -1,0 +1,1 @@
+[Solarus] [450] Warning: Image 'tilesets/outside.tiles.png' is larger than 2048 x 2048 and may not render correctly on some systems
